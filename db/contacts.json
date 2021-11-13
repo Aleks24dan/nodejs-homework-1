@@ -1,0 +1,45 @@
+[
+  {
+    "id": "2b4e2619-882d-42c7-a491-eb714ffc3569",
+    "name": "Hanrik",
+    "email": "hanrik@mgmail.com",
+    "phone": "12673489"
+  },
+  {
+    "id": "44239f19-674a-4d16-9366-b8acdb5d19a6",
+    "name": "Frady",
+    "email": "bufalo@mgmail.com",
+    "phone": "55473489"
+  },
+  {
+    "id": "6f23cde3-9714-44b7-9d97-7fa11ee2b5e1",
+    "name": "Jon",
+    "email": "wick@mgmail.com",
+    "phone": "566973489"
+  },
+  {
+    "id": "d4c49e9f-b2f9-4752-953e-5b111af85ece",
+    "name": "Tony",
+    "email": "soprrano@mgmail.com",
+    "phone": "5872973489"
+  },
+  {
+    "id": "6c7bac4b-e282-4d25-90f1-64b95c9f8b46",
+    "name": "Tony Soprrano",
+    "email": "soprrano@mgmail.com",
+    "phone": "5872973489"
+  },
+  {
+    "id": "9025f548-fd17-4abc-9b1d-d68091347f6a",
+    "name": "Kenni West",
+    "email": "kenni@mgmail.com",
+    "phone": "58727893489"
+  },
+  {
+    "id": "1d64eb65-042f-4830-8579-099e14b428db",
+    "name": "Tony",
+    "email": "soprrano@mgmail.com",
+    "phone": "5872973489"
+  }
+ 
+]
